@@ -87,19 +87,19 @@ The script accepts a single argument representing the number of newest messages 
 ### Keep latest 100 messages
 
 ```bash
-node cleanup-dql.js 100
+node cleanup-dlq.js 100
 ```
 
 ### Keep latest 50 messages
 
 ```bash
-node cleanup-dql.js 50
+node cleanup-dlq.js 50
 ```
 
 ### Keep latest 10 messages
 
 ```bash
-node cleanup-dql.js 10
+node cleanup-dlq.js 10
 ```
 
 ---
